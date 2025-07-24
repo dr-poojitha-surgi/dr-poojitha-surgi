@@ -1,16 +1,23 @@
-## Hi there 👋
+## Welcome to My GitHub✨
 
-<!--
-**dr-poojitha-surgi/dr-poojitha-surgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Poojitha Surgi, a passionate learner driven by curiosity and a strong interest in how data, technology, and decision-making come together to solve real-world problems. My background in health informatics and hands-on experience in analytics have shaped the way I think about challenges — not just in healthcare, but across industries.
 
-Here are some ideas to get you started:
+From SQL queries to Python notebooks, from dashboards to machine learning models — this is where I explore, learn, and build. Whether it’s healthcare, finance, or anything in between, I love working with data that matters.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You’ll find a variety of work here, reflecting my passion for data visualization, analytics, health informatics, and machine learning. I’m constantly exploring new tools, coding techniques, and smarter ways to connect the dots between data and decisions.
+
+### 📂 Featured Repositories
+
+Check out some of my work:
+
+- [Thyroid Malignancy Predictor](https://github.com/dr-poojitha-surgi/thyroid-malignancy-predictor)
+- [Retail Analytics with Tableau](https://github.com/your-username/retail-dashboard)
+- [AI Financial Chatbot](https://github.com/your-username/financial-chatbot)
+- [Telemetry Downtime Analysis](https://github.com/your-username/financial-chatbot)
+
+
+Always learning, always building!
+
+Thanks for stopping by - feel free to explore my work and connect if we share common interests!
+
+
