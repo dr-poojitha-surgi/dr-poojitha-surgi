@@ -11,8 +11,8 @@ You’ll find a variety of work here, reflecting my passion for data visualizati
 Check out some of my work:
 
 - [Thyroid Malignancy Predictor](https://github.com/dr-poojitha-surgi/thyroid-malignancy-predictor)
-- [Retail Analytics with Tableau](https://github.com/your-username/retail-dashboard)
-- [AI Financial Chatbot](https://github.com/your-username/financial-chatbot)
+- [Retail Analytics with Tableau](https://github.com/dr-poojitha-surgi/retail-dashboard)
+- [AI Financial Chatbot](https://github.com/dr-poojitha-surgi/AI-Financial-Chatbot)
 - [Deloitte Data Analytics Project](https://github.com/dr-poojitha-surgi/deloitte-data-analytics-forage)
 
 
