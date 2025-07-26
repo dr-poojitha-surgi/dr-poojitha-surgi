@@ -12,7 +12,7 @@ Check out some of my work:
 
 - [Thyroid Malignancy Predictor](https://github.com/dr-poojitha-surgi/thyroid-malignancy-predictor)
 - [Retail Analytics with Tableau](https://github.com/dr-poojitha-surgi/tata-data-visualization-project)
-- [AI Financial Chatbot](https://github.com/dr-poojitha-surgi/AI-Financial-Chatbot)
+- [AI Financial Chatbot Consulting](https://github.com/dr-poojitha-surgi/AI-Financial-Chatbot-Consulting)
 - [Deloitte Data Analytics Project](https://github.com/dr-poojitha-surgi/deloitte-data-analytics-forage)
 
 
