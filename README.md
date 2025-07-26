@@ -18,6 +18,6 @@ Check out some of my work:
 
 Always learning, always building!
 
-Thanks for stopping by - feel free to explore my work and connect if we share common interests!
+Thanks for stopping by  — feel free to explore my work and connect if we share common interests!
 
 
