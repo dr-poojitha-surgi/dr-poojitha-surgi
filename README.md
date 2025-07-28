@@ -14,6 +14,7 @@ Check out some of my work:
 - [Retail Analytics with Tableau](https://github.com/dr-poojitha-surgi/tata-data-visualization-project)
 - [AI Financial Chatbot Consulting](https://github.com/dr-poojitha-surgi/AI-Financial-Chatbot-Consulting)
 - [Deloitte Data Analytics Project](https://github.com/dr-poojitha-surgi/deloitte-data-analytics-forage)
+- [Covid 19 Tracker](https://github.com/dr-poojitha-surgi/covid19-tracker)
 
 
 Always learning, always building!
