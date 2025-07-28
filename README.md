@@ -6,6 +6,11 @@ From SQL queries to Python notebooks, from dashboards to machine learning models
 
 You’ll find a variety of work here, reflecting my passion for data visualization, analytics, health informatics, and machine learning. I’m constantly exploring new tools, coding techniques, and smarter ways to connect the dots between data and decisions.
 
+### SKILLS:
+
+- Data & Analytics Skills: Data Extraction, Data Modeling, Data Visualization
+- Web Development: HTML, CSS, Bootstrap, JavaScript
+
 ### 📂 Featured Repositories
 
 Check out some of my work:
